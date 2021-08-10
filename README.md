@@ -1,11 +1,11 @@
-# sorta_learning
-
-A project based on learning differnt concept of flutter. 
+# sorta_learning_1_series
+#learning_2
+A project based on Understanding differnt concept of flutter. 
 Include: 
-- On statefulWidget
+- statefulWidget
 - Properties of scaffold 
-- Routiing to differnt page (Function for Setting button)
-- Added a MenuBar (Menu Bar using Drawer) with ListView
-- Added a Navigator Bar at the Button
+- Navigating to differnt page/route (Function for Setting button)
+- Add a MenuBar (Menu Bar using Drawer) with ListView
+- Add a Navigator Bar at the Button
 - AppBar functionality with different properties 
 - Properties of container
