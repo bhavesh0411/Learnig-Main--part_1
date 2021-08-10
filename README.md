@@ -1,5 +1,5 @@
-# sorta_learning_1_series
-#learning_2
+# sorta_learning_1_series(learning_2)
+
 A project based on Understanding differnt concept of flutter. 
 Include: 
 - statefulWidget
