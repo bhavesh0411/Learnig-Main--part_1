@@ -1,5 +1,5 @@
-# sorta_learning(learnig main-1)
-- Learnig Main series consit of applying all the learning through small sorta_learning project series.
+# Learnig Main Project(part_1)
+- Learnig Main series consit of applying various concept learned through small projects of sorta_learning series.
 
 A project based on Understanding differnt concept of flutter and applying it to the main series 
 Include: 
